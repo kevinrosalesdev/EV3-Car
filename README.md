@@ -52,7 +52,7 @@ This project contains these files:
 
       `(exp(0.075*x+0.3) / (exp(0.075*x + 0.01) + 4.7 )) - 0.36`
 
-      **Sigmoid Function Plot **(Velocity [0-1] vs Distance [0-120]):
+      **Sigmoid Function Plot** (Velocity [0-1] vs Distance [0-120]):
 
       <img src=./images/sigmoid_function.png />
 
