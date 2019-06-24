@@ -60,7 +60,7 @@ This project contains these files:
 
 To avoid car getting on white line repeatedly, a *learning system* was designed and developed. It's about allowing the car turn **for a longer time** if it has been staying on white line many times. 
 
-A **Speed Reduction System** was made too in these curves.
+A **Speed Reduction System** was made too for these curves.
 
 Both Systems can be found in *car_project.py*
 
