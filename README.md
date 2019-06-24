@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/license-MIT-green.svg" />  <img src="https://img.shields.io/badge/version-1.0-red.svg" /> 
 
-*LEGO Mindstorm EV3 Autonomous Car* with **PD Control** that **regulates velocity** depending on front distance and **stay between two white lines.**
+*LEGO Mindstorm EV3 Autonomous Car* with **PD Control** that **regulates velocity** depending on front distance and **stays between two white lines.**
 
 ## Contributors
 
