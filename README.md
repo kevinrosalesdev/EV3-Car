@@ -48,7 +48,7 @@ This project contains these files:
 
 4. *speed.py*. Car Speed File.
 
-   1. Depending on distance, car may go in **reverse, stop or accelerate**. In last case, it will take a speed that depends on this **Sigmoid Function:**
+   1. Depending on distance, car may go in **reverse, stop or accelerate**. In this last case, it will take a speed that depends on this **Sigmoid Function:**
 
       `(exp(0.075*x+0.3) / (exp(0.075*x + 0.01) + 4.7 )) - 0.36`
 
